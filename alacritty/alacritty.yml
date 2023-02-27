@@ -1,0 +1,73 @@
+# Colors
+colors:
+  primary:
+    background: '0x1d1f21'
+    foreground: '0xf0f0f0'
+  normal:
+    black:   '0x1d1f21'
+    red:     '0xff6c60'
+    green:   '0xa8ff60'
+    yellow:  '0xffffb6'
+    blue:    '0x8ab7ff'
+    magenta: '0xff73fd'
+    cyan:    '0x69ebf5'
+    white:   '0xf0f0f0'
+  bright:
+    black:   '0x666666'
+    red:     '0xff6c60'
+    green:   '0xa8ff60'
+    yellow:  '0xffffb6'
+    blue:    '0x8ab7ff'
+    magenta: '0xff73fd'
+    cyan:    '0x69ebf5'
+    white:   '0xf0f0f0'
+
+# Font
+font:
+  size: 10.0
+  family: 'Fira Code'
+
+# Background opacity
+window:
+  decorations: full
+  borderless: false
+  startup_mode: Windowed
+  title: 'Alacritty'
+  dynamic_title: true
+  border:
+    color: '#ff0000'
+    radius: 0.5
+
+# Cursor
+cursor:
+  style: Block
+
+# Dimensions
+dimensions:
+  columns: 100
+  lines: 30
+
+# Scrolling
+scrolling:
+  history: 10000
+
+# Mouse
+mouse:
+  # This allows to select text with the mouse
+  hints:
+  url_style:
+    fg: "#ff0000"
+    bg: "#000000"
+    underline: true
+
+  # This allows to use the mouse wheel to scroll
+  # the terminal when the cursor is on top of it
+  # and not require any modifier keys.
+  # Modifier keys are still required when scrolling
+  # alternate screens or the alternate buffer.
+  # See the `alt` setting for details.
+  # https://github.com/alacritty/alacritty/issues/4419
+  default: Windows
+
+    background_opacity 0.4
+
