@@ -5,3 +5,9 @@
 - [Polybar](https://github.com/Hashimq07/dotfiles/tree/main/polybar)
 - [Alacritty](https://github.com/Hashimq07/dotfiles/tree/main/alacritty)
  ---
+
+![image](https://github.com/Hashimq07/dotfiles/tree/main/img/setup2.png)
+
+
+---
+
