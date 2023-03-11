@@ -6,7 +6,7 @@
 - [Alacritty](https://github.com/Hashimq07/dotfiles/tree/main/alacritty)
  ---
 
-![image](https://github.com/Hashimq07/dotfiles/blob/main/img/setupCom.png)
+![image](~https://github.com/Hashimq07/dotfiles/blob/main/img/setupCom.png)
 
 ---
 
